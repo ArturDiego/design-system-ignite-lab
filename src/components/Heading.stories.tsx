@@ -5,7 +5,7 @@ export default {
     title: 'Components/Heading',
     component: Heading,
     args: {
-        children: 'Lorem meu piru',
+        children: 'Teste componentes de texto',
     },
     argTypes: {
         size: {
@@ -34,7 +34,7 @@ export const Large: StoryObj<HeadingProps> = {
 export const CustomComponent: StoryObj<HeadingProps> = {
     args: {
         asChild: true,
-        children: <h1>Testando com h1</h1>,
+        children: <h1>Testando CustomComponent com h1</h1>,
     },
     argTypes: {
         children: {
