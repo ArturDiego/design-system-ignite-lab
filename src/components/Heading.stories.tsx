@@ -14,6 +14,16 @@ export default {
                 type: 'inline-radio',
             },
         },
+        asChild: {
+            table: {
+                disable: true,
+            },
+        },
+        className: {
+            table: {
+                disable: true,
+            },
+        },
     },
 } as Meta<HeadingProps>;
 

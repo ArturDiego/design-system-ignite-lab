@@ -17,11 +17,11 @@ module.exports = {
         transparent: 'transparent',
         black: '#000',
         white: '#FFF',
-        bgcolor: '375055',
+        bgcolor: '#375055',
 
         safron: {
-         500: 'DDC69B',
-         400: 'F8CACA',
+         500: '#DDC69B',
+         400: '#F8CACA',
         },
 
         gray: {
