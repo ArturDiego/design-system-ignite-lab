@@ -8,6 +8,9 @@ Configuração das ferramentas: TypeScript, Storebook, Tailwind, criação dos c
 
 Testes com MSW (Mock Service Worker) e Storybook Runner Addon.
 
+## Link Action Pages da API no Storybook:
+https://arturdiego.github.io/design-system-ignite-lab/?path=/story/components-button--default
+
 ## Documentação e Componentes no Storybook:
 Uso do Storybook para documentação, testes e componentização. 
 ![Animação](https://user-images.githubusercontent.com/105228399/196574618-d6ef7940-d0a5-4933-860c-63fb7cf76206.gif)
