@@ -1,0 +1,2 @@
+import{B as t}from"./Button.1c93bc11.js";import"./index.module.895afbf5.js";import"./index.37966021.js";import"./iframe.757d934f.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.192ff309.js";const i={title:"Components/Button",component:t,args:{children:"Crie sua conta!"},argTypes:{}},p={argTypes:{asChild:{table:{disable:!0}}}},m=["Default"];export{p as Default,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Button.stories.d2e12a11.js.map
