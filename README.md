@@ -15,6 +15,12 @@ https://arturdiego.github.io/design-system-ignite-lab/?path=/story/components-bu
 Uso do Storybook para documentação, testes e componentização. 
 ![Animação](https://user-images.githubusercontent.com/105228399/196574618-d6ef7940-d0a5-4933-860c-63fb7cf76206.gif)
 
+## Design System no Figma: 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105228399/196577793-ae119881-69fb-40e2-ba4a-822b2a0d332d.gif" alt="animated" />
+</p>
+
+
 ## Autor:
 
 - [@ArturDiego](https://github.com/ArturDiego)
